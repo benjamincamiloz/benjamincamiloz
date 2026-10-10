@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Benjamín 👋
 
-<!--
-**benjamincamiloz/benjamincamiloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & Product Engineer based in Santiago, Chile. Leading and building **[Gustto](https://gustto.cl)**.
 
-Here are some ideas to get you started:
+### What I'm focused on
+- 🚀 Scaling customer loyalty, rewards, and retention infrastructure across Latin America
+- 🛠️ Modern cloud architecture, event-driven workflows, and scalable consumer platforms
+- 📈 Omnichannel customer intelligence and automated incentive engines for modern businesses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Organizations
+- Founder & CEO @ [Gustto](https://github.com/Gusttoapp)
+
+### Connect with me
+- 🌐 [gustto.cl](https://gustto.cl)
+- ✉️ [benja@gustto.cl](mailto:benja@gustto.cl)
